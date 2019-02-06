@@ -17,22 +17,33 @@ Term: Spring 2019
 Prepare data and count the number of words in happy moments.
 #### Finding
 ![image](figs/length.png)
+
 After basic analysis, I find that most happy moments are short sentences.
 ### Topic modelling (LDA) and word cloud
 Using topic modelling to find topics of happy moment;
 Visualizing frequency of words to find important words.
 #### Finding
+![image](figs/lda.png)
+
 From topic modelling, the words are seperated to five groups:
 Topic 1: work;
 Topic 2: friend;
 Topic 3: leisure;
 Topic 4: family;
 Topic 5: entertainment
+
+![image](figs/lda.png)
+
 From the word cloud, I find that most happy moments are correlated with work, family and friend.
 ### Entity extraction
 Using other dataset in topic_dict to do a straighforward entity extraction of food and entertainment.
 #### Finding
+![image](figs/food.png)
+
 The most six frequent words related to food are dinner, lunch, food, breakfast, meal and cream. It is infered that people feel happier about dinner and the most enjoyable food is cream in the happyDB analysis.
+
+![image](figs/entertainment.png)
+
 The most five frequent words are show, book, read , song and music. Since book and read has similar meaning to some extent, and song , music are related. In conclusion, the top three happiest entertainment are watching shows, reading books and listening to music.
 ### Variate analysis
 Compare happy moments between different groups.
