@@ -51,13 +51,23 @@ Compare happy moments between different groups.
 
 ![image](figs/marital.png)
 
+For most singles, their happy time is related to achievement while most married people's happy time is related to affection. It makes sense.
+
 ![image](figs/gender.png)
+
+Male's happiness is more corelated to achievement than female's happiness is.
 
 ![image](figs/reflection_period.png)
 
+It is infered that happiness which comes from achievement or bonding has a long term and that happiness which comes from affection of exercise has a relatively short term.
+
 ![image](figs/country.png)
 
+It seems that American's happiness is more correlated to achivements than non-American's.
+
 ![image](figs/parenthood.png)
+
+It shows that people who become parent enjoy more on affection than those who don't have child. And people who have not become parent will enjoy more on achievement.
 
 Different groups have different predicted category of happy moments.
 
