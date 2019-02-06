@@ -14,3 +14,12 @@ import matplotlib.pyplot as plt
 ### word cloud
 
 import seaborn as sns
+
+def preprocess(text):
+    text_punc = [char for char in text if char not in string.punctuation]
+    text = ''.join(text_punc)      
+    return [word for word in text.split() if (word.lower() not in stoplist) ]
+
+def stem(text):
+    text = ' '.join(ps.stem(word) for word in text)
+    return[word for word in text.split()]
