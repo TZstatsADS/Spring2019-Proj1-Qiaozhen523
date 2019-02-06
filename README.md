@@ -32,7 +32,7 @@ Topic 3: leisure;
 Topic 4: family;
 Topic 5: entertainment
 
-![image](figs/word cloud.png)
+![image](figs/word_cloud.png)
 
 From the word cloud, I find that most happy moments are correlated with work, family and friend.
 ### Entity extraction
