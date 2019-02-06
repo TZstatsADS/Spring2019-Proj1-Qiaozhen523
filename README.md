@@ -48,6 +48,17 @@ The most five frequent words are show, book, read , song and music. Since book a
 ### Variate analysis
 Compare happy moments between different groups.
 #### Finding
+
+![image](figs/marital status.png)
+
+![image](figs/gender.png)
+
+![image](figs/reflection period.png)
+
+![image](figs/country.png)
+
+![image](figs/parenthood.png)
+
 Different groups have different predicted category of happy moments.
 
 
