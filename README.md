@@ -49,11 +49,11 @@ The most five frequent words are show, book, read , song and music. Since book a
 Compare happy moments between different groups.
 #### Finding
 
-![image](figs/marital status.png)
+![image](figs/marital.png)
 
 ![image](figs/gender.png)
 
-![image](figs/reflection period.png)
+![image](figs/reflection_period.png)
 
 ![image](figs/country.png)
 
