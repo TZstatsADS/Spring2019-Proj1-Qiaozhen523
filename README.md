@@ -16,6 +16,7 @@ Term: Spring 2019
 ### Data preparation and basic analysis
 Prepare data and count the number of words in happy moments.
 #### Finding
+![image](figs/length.png)
 After basic analysis, I find that most happy moments are short sentences.
 ### Topic modelling (LDA) and word cloud
 Using topic modelling to find topics of happy moment;
